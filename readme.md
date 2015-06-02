@@ -5,6 +5,7 @@ QQ讨论群：430033580
 
 ##入门
 
+[ReactiveCocoa 和 MVVM 入门](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/)
 
 [ReactiveCocoa入门教程：第一部分](http://southpeak.github.io/blog/2014/08/02/reactivecocoazhi-nan-%5B%3F%5D-:xin-hao/)
 
@@ -49,9 +50,3 @@ QQ讨论群：430033580
 ###官方文档翻译
 
 RAC文档翻译文件夹下
-
-###认领列表
-
-官方文档FrameworkOverview 认领人:iBenjamin 2015.4.2
-
-###完成列表
