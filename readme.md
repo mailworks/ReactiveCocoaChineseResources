@@ -44,6 +44,8 @@ QQ讨论群：430033580
 [arbullzhang/KoalaFRP](https://github.com/arbullzhang/KoalaFRP)
 说明:FunctionalReactivePixels 做了修改，因为编译不过。
 
+[leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) 推荐！一个完整的使用MVVM和RAC的Github客户端，leichunfeng大师作品。
+
 ##翻译计划
 如果有同学想翻译什么文章，或者官方文档，请到issue里提出来，可以是自己搜索到的。
 
