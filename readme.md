@@ -36,6 +36,7 @@ QQ讨论群：430033580
 
 [ReactiveCocoa基本组件：理解和使用RACCommand](http://blog.csdn.net/womendeaiwoming/article/details/37597779)
 
+[ReactiveCocoa2 源码浅析](http://blog.csdn.net/womendeaiwoming/article/details/48036725)
 
 ##一些工程
 
